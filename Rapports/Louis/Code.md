@@ -61,12 +61,12 @@ void loop() {
       esc2.write(PWM);          
       delay(5);
       }
-    if (Data=='D'){
+    if (Data=='D'){ //Angle entre 75deg et 120deg
         Angled=BlueT.parseInt();
         servo1.write(Angled);
         delay(5);
     }
-    if (Data=='G'){
+    if (Data=='G'){  //Angle entre 30deg et 120deg
       Angleg=BlueT.parseInt();
       servo2.write(Angleg);
       delay(5);
