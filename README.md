@@ -15,3 +15,5 @@ Lien du 1er Test de décollage du bicoptère via Bluetooth: https://www.youtube.
 Lien du 2eme Test de décollage du bicoptère via Bluetooth: https://www.youtube.com/watch?v=23QDOOEaW0g
 
 Lien de l'orientation du sens de rotation du bicoptère via Bluetooth: https://www.youtube.com/watch?v=-SvJQlqzLKM 
+
+Lien du dernier vol avant la présentation, vol parfait: https://www.youtube.com/watch?v=pWN4PxkNXiw&feature=youtu.be
